@@ -1,2 +1,2 @@
 # DeepLearning
-Using python, R with keras and tensorflow frameworks for deep learning.
+Using python with keras framework to apply deep learning
